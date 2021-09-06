@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Damodhar Wanve</h1>
-<h3 align="center">MATLAB SIMULINK ENTHUSIAST | AIML ENTHUSIAST</h3>
+<h3 align="center"> AIML ENTHUSIAST | SIMULINK ENTHUSIAST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehaw12&label=Profile%20views&color=0e75b6&style=flat" alt="snehaw12" /> </p>
 
