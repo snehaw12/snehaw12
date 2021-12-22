@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PYTHON ,AIML AND MATLAB**
 
-- 🌱 I’m currently learning **AIML,JAVASCRIPT, CODING LANGUAGES,MATLAB,PYTHON**
+- 🌱 I’m currently learning T, MATLAB,PYTHON**
 
 - 👯 I’m looking to collaborate on **AIML**
 
